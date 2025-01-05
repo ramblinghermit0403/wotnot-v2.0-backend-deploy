@@ -6,7 +6,7 @@
 
 
 
-SQLALCHEMY_DATABASE_URL = 'postgresql+asyncpg://postgres:Denmarks123$@localhost/wati_clone'
+SQLALCHEMY_DATABASE_URL = 'postgresql+asyncpg://postgres:Naveen1971$@my-db-instance.cj4628i6epn6.eu-north-1.rds.amazonaws.com/wotnot'
 
 
 
